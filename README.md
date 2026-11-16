@@ -62,4 +62,8 @@ Touchdown on the Red Planet in the **G.O.A.T.-1 Mars Lander**. No rescue is comi
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/ssurpluss/Red-Domain.git](https://github.com/ssurpluss/Red-Domain.git)
+   git clone https://github.com/ssurpluss/Red-Domain.git
+   ```
+2. Open Unity Hub, click Add > Add project from disk, and select the cloned folder.
+
+3. Open the main scene and press Play in the Unity Editor.
