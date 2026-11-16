@@ -1,4 +1,5 @@
 # 🐐 Red Domain
+### 🎮 **[Play Red Domain in Your Browser on itch.io](https://ssurpluss.itch.io/red-domain)**
 
 **Dive into the world of Red Domain, a 2D Martian base-building and survival adventure game starring a SUPER-GOAT!**
 
